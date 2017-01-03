@@ -28,13 +28,16 @@ Note : For the demo, you should request to add your facebook account as tester i
 
 ## Reference Libraries & URL
 
--- For simple login with google 
+- For simple login with google 
+
 	https://lornajane.net/posts/2012/using-oauth2-for-google-apis-with-php
 	
--- For simple login with facebook
+- For simple login with facebook
+
 	http://www.codexworld.com/login-with-facebook-using-php/
 	
--- Picasa Web Albums 
+- Picasa Web Albums 
+
 	https://developers.google.com/picasa-web/docs/2.0/developers_guide_protocol
 	http://forselfref.blogspot.in/2013/08/create-picasa-album-and-upload-images.html
 	http://stackoverflow.com/questions/7133140/create-a-picasa-album-and-upload-images-to-it-with-php-and-curl
