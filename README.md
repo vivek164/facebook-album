@@ -1,4 +1,4 @@
-## rtcamp-facebook-album
+## facebook-album
 Facebook Photos Challange
 
 Demo URL : [Facebook Album Assignment](http://www.vivekpipaliya.com/rtcamp_facebook_album/)
